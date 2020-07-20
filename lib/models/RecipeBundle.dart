@@ -42,6 +42,6 @@ List<RecipeBundle> recipeBundles = [
     title: "Foor Court",
     description: "What's your favorite food dish make it now",
     imageSrc: "assets/images/food_court@2x.png",
-    color: Color(0xFF82D40),
+    color: Colors.blueAccent,
   ),
 ];
